@@ -1,5 +1,3 @@
-# CodeAlpha_music-player
-Frontend Development Intenship Task - CodeAlpha
 # ?? Music Player — CodeAlpha Internship Task 4
 
 > **Intern:** Harishanker S.T
@@ -123,7 +121,7 @@ CodeAlpha_MusicPlayer/
 
 **Harishanker S.T**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harishanker-s-t-938772365)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
 
 ---
